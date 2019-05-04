@@ -76,6 +76,9 @@ When someone is in a coma, an EEG may be performed to determine the level of bra
 ![Clustering2]({{ site.baseurl }}/assets/img/2019-04-11/NeuroTREMOR_Concept.png){: .center-image}
 <em class="figure">Fig 2. Trends</em>
 
+![Clustering2]({{ site.baseurl }}/assets/img/2019-04-11/eeg2.png){: .center-image}
+<em class="figure">Fig 3. Brain waves using EEG</em>
+
 
 
 <hr class="with-margin">
