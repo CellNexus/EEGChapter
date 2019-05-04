@@ -2,7 +2,7 @@
 layout: post
 category: blog
 permalink: /:categories/:year/:month/:day/:title
-title: "Wearables In Health"
+title: "What is electroencephalogram (EEG)"
 tags: ['Parkinsons disease', 'Electroencephalogram']
 image: "2019-04-11/NeuroTREMOR_Concept.png"
 identifier: 3
